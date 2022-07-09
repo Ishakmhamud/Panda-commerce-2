@@ -57,3 +57,7 @@
 footer{
     text-align: center;
 }
+.container .sss{
+    position: absolute;
+    left: 42.5%;
+}
